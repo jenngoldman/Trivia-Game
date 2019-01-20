@@ -14,8 +14,8 @@ body {
 }
 
 .title {
-    color: black
-    font-size: 70pt;
+    color: black;
+    font-size: 50pt;
 }
 
 #start-button {
@@ -33,7 +33,7 @@ body {
     color: black;
 }
 
-#possible-answers {
+#possible-answers, {
     font-size: 12pt;
     color: black;
 }
@@ -42,7 +42,7 @@ input[type="radio"]{
     margin: 0 5px 0 5px;
 }
 
-.timer-container {
+.timer-container, .correct-answer-container, .incorrect-answer-container, .unanswered-container {
     font-size: 18pt;
     color: black
 }

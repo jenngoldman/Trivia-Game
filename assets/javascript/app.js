@@ -103,9 +103,14 @@ function buildResultsHTML() {
         }
     }
 
+    timerContainer.text("Time's Up!");
+    timerContainer.addClass("timer-container");
     correctAnswerContainer = $("<div>").text("Correct Answers: " + correctAnswerCount);
+    correctAnswerContainer.addClass("correct-answer-container")
     incorrectAnswerContainer = $("<div>").text("Incorrect Answers: " + incorrectAnswerCount);
+    incorrectAnswerContainer.addClass("incorrect-answer-container");
     unansweredContainer = $("<div>").text("Unanswered: " + unansweredCount);
+    unansweredContainer.addClass("unanswered-container");
 
     $("#content-container").empty();
     $("#content-container").append(timerContainer);
