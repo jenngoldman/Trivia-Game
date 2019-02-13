@@ -7,10 +7,6 @@ Once the start game button is clicked, the user will have 30 seconds to complete
 Link: https://jenngoldman.github.io/Trivia-Game/
 
 
-
-<img src=Screen Shot 2019-02-13 at 1.53.23 PM.png> </img>
-
-
 ## Technologies Used:
 - HTML
 - Bootstrap
