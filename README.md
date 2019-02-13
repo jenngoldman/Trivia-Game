@@ -8,7 +8,7 @@ Link: https://jenngoldman.github.io/Trivia-Game/
 
 
 
-![Uploading Screen Shot 2019-02-13 at 1.53.23 PM.png…]()
+
 
 
 ## Technologies Used:
